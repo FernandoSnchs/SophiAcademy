@@ -503,7 +503,7 @@
  .logo-login div {
      width: auto;
      height: 105%;
-     background: url(../img/black/sophiAcademy.png);
+     background-image: url(../img/black/sophiAcademy.png);
      background-size: cover;
      background-position: center center;
 
